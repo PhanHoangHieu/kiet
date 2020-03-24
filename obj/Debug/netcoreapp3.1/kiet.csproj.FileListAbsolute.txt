@@ -1,0 +1,13 @@
+E:\LearnC#\8.oop\kiet\bin\Debug\netcoreapp3.1\kiet.exe
+E:\LearnC#\8.oop\kiet\bin\Debug\netcoreapp3.1\kiet.deps.json
+E:\LearnC#\8.oop\kiet\bin\Debug\netcoreapp3.1\kiet.runtimeconfig.json
+E:\LearnC#\8.oop\kiet\bin\Debug\netcoreapp3.1\kiet.runtimeconfig.dev.json
+E:\LearnC#\8.oop\kiet\bin\Debug\netcoreapp3.1\kiet.dll
+E:\LearnC#\8.oop\kiet\bin\Debug\netcoreapp3.1\kiet.pdb
+E:\LearnC#\8.oop\kiet\obj\Debug\netcoreapp3.1\kiet.csprojAssemblyReference.cache
+E:\LearnC#\8.oop\kiet\obj\Debug\netcoreapp3.1\kiet.csproj.CoreCompileInputs.cache
+E:\LearnC#\8.oop\kiet\obj\Debug\netcoreapp3.1\kiet.AssemblyInfoInputs.cache
+E:\LearnC#\8.oop\kiet\obj\Debug\netcoreapp3.1\kiet.AssemblyInfo.cs
+E:\LearnC#\8.oop\kiet\obj\Debug\netcoreapp3.1\kiet.dll
+E:\LearnC#\8.oop\kiet\obj\Debug\netcoreapp3.1\kiet.pdb
+E:\LearnC#\8.oop\kiet\obj\Debug\netcoreapp3.1\kiet.genruntimeconfig.cache
